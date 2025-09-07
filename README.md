@@ -43,7 +43,7 @@ pip install -r requirements.txt
 Ejecuta el script desde la terminal, indicando el correo a verificar y opcionalmente el nombre del archivo CSV de salida:
 
 ```bash
-python verificar_correo.py correo@example.com -o salida.csv
+python verificar_correo3.py correo@example.com -o salida.csv
 
 ```
 
@@ -59,7 +59,7 @@ python verificar_correo.py correo@example.com -o salida.csv
 ## 🧱 Estructura del proyecto
 
 ```plaintext
-verificar_correo.py
+verificar_correo3.py
 apikey.txt
 registro.log
 reporte.csv
